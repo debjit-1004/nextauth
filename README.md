@@ -1,2 +1,0 @@
-# nextauth
-Authentication in nextjs 
