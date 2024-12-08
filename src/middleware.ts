@@ -26,6 +26,7 @@ export function middleware(request: NextRequest) {
 
  
 // See "Matching Paths" below to learn more
+//in which routes this middleware will be applied
 export const config = {
   matcher: [
     '/',
